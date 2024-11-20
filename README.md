@@ -23,3 +23,6 @@ The project demonstrates key **Data Structures and Algorithms (DSA)** concepts u
 2. Clone this repository:
    ```bash
    git clone https://github.com/your-username/Train-Reservation-System.git
+
+# student 
+Aleem khan
